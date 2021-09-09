@@ -2,7 +2,7 @@ package netlink
 
 import (
 	"fmt"
-	"github.com/vishvananda/netlink/nl"
+	"github.com/tobias-urdin/netlink/nl"
 	"golang.org/x/sys/unix"
 	"net"
 	"syscall"

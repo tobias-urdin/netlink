@@ -10,7 +10,7 @@ import (
 	"os"
 	"sort"
 
-	"github.com/vishvananda/netlink"
+	"github.com/tobias-urdin/netlink"
 )
 
 type command struct {
